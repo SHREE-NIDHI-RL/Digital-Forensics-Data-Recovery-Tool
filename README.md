@@ -1,7 +1,7 @@
 # Digital-Forensics-Data-Recovery-Tool
 -OVERVIEW
 This is a Java console-based project designed to assist in digital forensics investigations and data recovery operations.  
-It provides functionalities like file hashing (MD5 & SHA-256), deleted file recovery, and forensics reporting.
+It provides functionalities like file hashing (MD5 & SHA-256), deleted file recovery and forensics reporting.
 
 ---
 -FEATURES
