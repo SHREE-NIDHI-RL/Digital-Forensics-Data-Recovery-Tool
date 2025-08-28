@@ -1,0 +1,8 @@
+===== FORENSIC REPORT =====
+Generated on: 2025-08-28T18:50:46.271832500
+
+1) Scanned directory: C:\Users\shree\OneDrive\Desktop\Attachments\physics material (13 entries)
+2) Metadata viewed for: C:\Users\shree\OneDrive\Desktop\Attachments\physics material\pis syllabus.pdf, size=267826
+3) Hash MD5 computed for: C:\Users\shree\OneDrive\Desktop\Attachments\physics material\pis syllabus.pdf => 7fd7aa279a5ed1ffd258b42815b77227
+4) Recovered files from C:\Users\shree\OneDrive\Desktop\java\deleted to C:\Users\shree\OneDrive\Desktop\java\recovered_files: 1 file(s)
+5) Keyword search: 'class' under C:\Users\shree\OneDrive\Desktop\java\deleted -> 1 match(es)
